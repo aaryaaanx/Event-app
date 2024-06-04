@@ -51,7 +51,7 @@ const ContactPage = () => {
                                     </div>
                                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                                         <label htmlFor="" className="form-label">Specify your event</label>
-                                        <textarea name="" id="" className="form-control" placeholder="Type here... "></textarea>
+                                        <textarea name="" id="" cols="30" rows="10" class="form-control" placeholder='say more about your event.....'></textarea>
                                     </div>
                                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                                         <button className="btn btn-success">Submit</button>
